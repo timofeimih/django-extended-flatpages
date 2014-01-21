@@ -1,1 +1,1 @@
-extended-flatpages
+extended_flatpages
